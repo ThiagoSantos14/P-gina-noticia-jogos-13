@@ -1,0 +1,256 @@
+.topo {
+    background-color: maroon;
+    padding-top: 27px;
+    
+}
+
+.logo {
+    margin-left: 30px;
+    margin-right: 900px; 
+}
+
+.logo :hover {
+    opacity: 0.5;
+}
+
+.logo02 {
+    text-align: center;
+    margin-left: 10px;
+    margin-top: -100px;
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.redes-sociais {
+    text-align: right;
+    margin-top: -40px;
+    margin-right: 10px;
+}
+
+.redes-sociais :hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.titulo01 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+}
+
+.foto-copa {
+    padding-top: 60px;
+    margin-left: 30px;    
+}
+
+figcaption {
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.text-central {
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    margin-left: 550px;
+    margin-right: 570px;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    border-radius: 30px;
+    padding-left: 69px;
+    padding-right: 69px;
+}
+
+.text-central :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    margin-right: 1310px;
+    margin-top: -323px;
+    padding-bottom: 210px;
+    padding-left: 40px;
+    padding-right: 50px;
+    font-size: 12px;
+    border-radius: 30px;
+}
+
+.container :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.container02 {
+    text-align: right;
+    margin-top: -684px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    margin-left: 1300px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+}
+
+.container02 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.foto-fortnite {
+    margin-right: 50px;
+}
+
+.text-fortnite {
+    font-size: 11px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-fortnite02 {
+    margin-left: 200px;
+    font-size: 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+}
+
+.foto-kratos {
+    text-align: center;
+    margin-top: -200px;
+}
+
+.titulo-kratos {
+    font-size: 90px;
+}
+
+.text-kratos {
+    width: 500px;
+    height: 300px;
+    padding-left: 100px;
+}
+
+.container03 {
+    background-color: black;
+    color: white;
+    margin-left: 550px;
+    margin-right: 570px;
+    padding-bottom: 200px;
+    padding-top: 300px;
+    border-radius: 30px; 
+    margin-top: -291px; 
+}
+
+.container03 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.container04 {
+    background-color: black;
+    color: white;
+    margin-right: 1310px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    font-size: 12px;
+    border-radius: 30px;
+    margin-top: -610px;
+}
+
+.container04 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.foto-call-of-duty {
+    margin-top: -600px;
+    margin-left: 30px;
+    width: 400px;
+    padding-top: 70px;
+}
+
+.container05 {
+    text-align: right;
+    background-color: black;
+    color: white;
+    margin-left: 1290px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    border-radius: 30px;
+    margin-top: -850px;
+}
+
+.container05 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.foto-sonic {
+    text-align: right;
+    margin-top: -720px;
+    margin-right: 50px;
+    padding-top: 35px;
+}
+
+.container06 {
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    border-radius: 30px;
+}
+
+.container06 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.foto-gta-6 {
+    text-align: center;
+    color: white;
+}
+
+.text-gta {
+    color: white;
+    margin-left: 400px;
+    width: 900px;
+}
+
+.rodape {
+    font-size: 10px;
+    padding-top: -11px;
+    padding-bottom: 30px;
+    background-color: maroon;
+    margin-top: 70px;
+    margin-bottom: -11px;
+}
+
+.text-rodape {
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+
+.text-rodape :hover {
+    opacity: 0.5;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+li {
+    color: white;
+    background-color: black;
+    margin-right: 1740px;
+    padding-left: 10px;
+    padding-right: 80px;
+}
